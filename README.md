@@ -1,12 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a9396&height=200&section=header&text=Christopher%20R.%20Bosman&fontSize=38&fontAlignY=35&desc=Systems%20Reliability%20Architect%20%7C%20Infrastructure%20Strategist&descAlignY=55&descAlign=50" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6F61&height=200&section=header&text=Christopher%20R.%20Bosman&fontSize=38&fontAlignY=35&fontColor=CBA6F7&desc=Systems%20Reliability%20Architect%20%7C%20Infrastructure%20Strategist&descAlignY=55&descAlign=50&fontAlign=50" alt="banner"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure%20%7C%20OCI-0a9396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IaC-Ansible%20%7C%20Terraform-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Certification-ITIL%20v3-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Target-AWS%20Solutions%20Architect%20(2025)-green?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=42&pause=1000&color=CBA6F7&center=true&vCenter=true&width=1000&lines=Platform+Engineer;Human-Centered+Systems+Designer;Engineer+%7C+Architect+%7C+Builder;Creative+Infrastructure+Specialist" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,6 +13,7 @@
 > "Infrastructure should *just work* — reliable, observable, scalable."
 
 Engineer, architect, automation strategist — I design and maintain systems that stay up, scale fast, and run smooth.  
+I believe in **engineering with soul** — human-centered, durable, and built to be trusted.  
 From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the intersection of reliability and creativity.
 
 ---
@@ -52,23 +50,54 @@ From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the int
 
 # 💼 Professional Experience
 
-### **Blizzard Entertainment — Irvine, CA**  
+### [**Blizzard Entertainment**](https://www.blizzard.com/) — Irvine, CA  
+*DevOps & Systems Reliability (2020–2024)*  
 **Associate DevOps Engineer (2022–2024)**  
-• Reduced Atlassian Datacenter downtime by **83%** with automated upgrade tooling  
-• Built observability integrations for New Relic & Slack, feeding real-time metrics  
-• Designed HA deployment pipelines with Jenkins + Octopus  
-• Introduced postmortem workflows cutting TTD/TTR by ~25%
+- **Thing Made:** Engineered multi-stack upgrade automation across 18 environments and 12 production clusters  
+- **Problem Solved:** Reduced Atlassian Datacenter downtime by **83%**, enabling coordinated maintenance for all teams  
+
+- **Thing Made:** Built a unified observability aggregator pulling metrics from every production cluster, using Slack webhooks with urgency-aware logic and embedded JSON payloads  
+- **Problem Solved:** Centralized plugin expiry reporting and enabled automated alerting pipelines across all environments  
+
+- **Thing Made:** Built custom telemetry injection pipelines into New Relic, capturing heartbeat and status metrics through strategic API workarounds, alongside Octopus HA scheduling and Jenkins automation  
+- **Problem Solved:** Overcame restricted programmatic access to provide time-bound system visibility and proactive fault detection across production environments  
 
 **Systems Administrator (2020–2022)**  
-• Integrated SSL into dev workflows and service chains  
-• Co-authored resource scaling scripts for on-prem environments  
-• Built SLO dashboards and service health visualizations
+- **Thing Made:** Automated SSL certificate monitoring and expiry reporting with twice-daily scan scripts exporting to JSON  
+- **Problem Solved:** Integrated cert expiration visibility into broader service health reporting workflows  
 
-### **Bird Rides — Santa Monica, CA**  
-**Senior Operations Technician (2019–2020)**  
-• Created Slack-first incident ingestion and response tooling  
-• Automated microservice deploy notifications into team pipelines  
-• Supported rapid-release engineering through container observability
+- **Thing Made:** Designed and deployed custom SLO dashboards visualizing uptime, latency, storage, and application health metrics  
+- **Problem Solved:** Provided real-time operational insights and performance baselines for service owners using NRQL queries and New Relic Flex integrations  
+
+---
+
+### [**Bird Rides**](https://www.bird.co/) — Santa Monica, CA  
+*Platform Operations (2019–2020)*  
+**Senior Operations Technician**  
+- **Thing Made:** Built Slack-first incident ingestion and triage tooling integrating platform service health metrics  
+- **Problem Solved:** Accelerated incident detection and streamlined team response workflows  
+
+- **Thing Made:** Automated deploy notifications and service state monitoring into team pipelines  
+- **Problem Solved:** Increased engineering visibility into service health during rapid release cycles  
+
+---
+
+### [**Blizzard Entertainment**](https://www.blizzard.com/) — Irvine, CA  
+*Systems Operations (2010–2019)*  
+**Senior Operations Administrator (2015–2019)**  
+- Maintained large-scale OpenStack infrastructure supporting critical internal services  
+- Delivered Python scripting workshops to operations staff to improve tool adoption  
+- Provided platform support during global infrastructure incidents and escalations  
+- Introduced structured postmortem practices to accelerate recovery cycles  
+
+**Operations Administrator (2012–2015)**  
+- Authored Confluence-based runbooks for platform maintenance and escalation workflows  
+- Operated OpenStack environments, assisting with incident response and environment stability  
+- Provided daily monitoring and first-line triage for internal systems across multiple regions  
+
+**Associate Operations Administrator (2010–2012)**  
+- Monitored and maintained the health of over 10,000 systems globally  
+- Developed a translation tool to accelerate public outage communications
 
 ---
 
@@ -83,9 +112,9 @@ From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the int
 
 # 🎓 Education & Certifications
 
-- Bachelor’s Degree — Computer Informations Systems  
+- Bachelor’s Degree — Computer Information Systems  
 - **ITIL v3 Foundations Certified**  
-- **AWS Certified Solutions Architect – Associate** *(Target: 2025)*
+- **(Target) Kubernetes Certified Administrator (CKA) — 2025**
 
 ---
 
@@ -96,7 +125,6 @@ From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the int
 - Core contributor to cross-team reliability playbooks and automation workflows
 
 ---
-
 
 <p align="center">
   <b>🧰 Tech Toolbox</b><br/><br/>
