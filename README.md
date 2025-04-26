@@ -141,6 +141,6 @@ From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the int
 
 <p align="center">
   <em>"Code is infrastructure. Infrastructure is power. I build both."</em><br/>
-  📫 [chris@bosman.solutions](mailto:chris@bosman.solutions)
+  📫 <a href="mailto:chris@bosman.solutions">chris@bosman.solutions</a>
 </p>
 
