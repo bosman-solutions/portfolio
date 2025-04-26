@@ -29,6 +29,14 @@ From multi-cloud SRE strategy to bare-metal home lab design, I thrive at the int
 
 ---
 
+## 🛠️ Projects
+
+| Project | Description |
+|:--------|:------------|
+| [gui-kiosk](https://github.com/bosman-solutions/gui-kiosk) | Remote GUI container stack for creative and technical applications. Lightweight, modular, and built for self-hosted environments. |
+
+---
+
 # 🛠 Core Competencies
 
 - Kubernetes | Docker | Podman | Multi-Cloud (AWS, Azure, GCP, OCI)
